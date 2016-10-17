@@ -54,5 +54,5 @@ Path of installed formulae: `/usr/local/Cellar`
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-![CC BY 4.0 logo](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png "CC BY 4.0 logo")
+![CC BY 4.0 logo](https://i.creativecommons.org/l/by/4.0/88x31.png "CC BY 4.0 logo")
 
