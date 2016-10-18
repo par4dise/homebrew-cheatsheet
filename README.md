@@ -2,11 +2,11 @@
 Terminology and most used commands.
 
 ## Glossary
-Formula
+**Formula**   
 : A formula is a package definition written in Ruby.    
-Keg
+**Keg**   
 : Installation prefix of a formula.    
-Cellar
+**Cellar**   
 : Place where kegs are located.
 
 ## Global
