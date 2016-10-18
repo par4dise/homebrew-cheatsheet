@@ -4,7 +4,7 @@ Terminology and most used commands.
 
 ## Glossary
 Formula
-: A formula is a package definition written in Ruby. 
+: A formula is a package definition written in Ruby.    
 Keg
 : Installation prefix of a formula.
 
