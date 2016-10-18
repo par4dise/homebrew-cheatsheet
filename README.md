@@ -3,11 +3,11 @@ Terminology and most used commands.
 
 ## Glossary
 **Formula**   
-: A formula is a package definition written in Ruby.    
+A formula is a package definition written in Ruby.    
 **Keg**   
-: Installation prefix of a formula.    
+Installation prefix of a formula.    
 **Cellar**   
-: Place where kegs are located.
+Place where kegs are located.
 
 ## Global
 `brew list` - See what's installed locally.   
